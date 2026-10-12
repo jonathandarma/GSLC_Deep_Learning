@@ -1,0 +1,52 @@
+[
+    {
+        "Eksperimen": "B1",
+        "Strategi": "From Scratch",
+        "Trainable Params": 11181642,
+        "Learning Rate": "0.001",
+        "Epoch Konvergen": 6,
+        "Waktu Training (s)": 182.26,
+        "Validation Accuracy": "38.80%",
+        "Macro F1 Test": 0.3344
+    },
+    {
+        "Eksperimen": "B2",
+        "Strategi": "Feature Extraction",
+        "Trainable Params": 5130,
+        "Learning Rate": "0.001",
+        "Epoch Konvergen": 20,
+        "Waktu Training (s)": 313.07,
+        "Validation Accuracy": "96.99%",
+        "Macro F1 Test": 0.9439
+    },
+    {
+        "Eksperimen": "B3",
+        "Strategi": "Progressive Fine-Tuning",
+        "Trainable Params": 8398858,
+        "Learning Rate": "0.0001, 0.001",
+        "Epoch Konvergen": 3,
+        "Waktu Training (s)": 120.69,
+        "Validation Accuracy": "97.99%",
+        "Macro F1 Test": 0.94
+    },
+    {
+        "Eksperimen": "B4",
+        "Strategi": "Fine-Tuning Without Augmentation",
+        "Trainable Params": 8398858,
+        "Learning Rate": "0.0001, 0.001",
+        "Epoch Konvergen": 7,
+        "Waktu Training (s)": 137.0,
+        "Validation Accuracy": "96.99%",
+        "Macro F1 Test": 0.9561
+    },
+    {
+        "Eksperimen": "B5",
+        "Strategi": "EfficientNet-B0 Fine-Tuning",
+        "Trainable Params": 424970,
+        "Learning Rate": "0.0001, 0.001",
+        "Epoch Konvergen": 11,
+        "Waktu Training (s)": 194.35,
+        "Validation Accuracy": "98.33%",
+        "Macro F1 Test": 0.9734
+    }
+]
