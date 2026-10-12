@@ -67,6 +67,6 @@ For reproducible results, follow the random seed, dataset split, model configura
 
 ## Author
 
-- Name: [Your Full Name]
-- Student ID: [Your NIM]
+- Name: Jonathan Darma Ratana
+- Student ID: 2802517696
 - Course: Deep Learning
